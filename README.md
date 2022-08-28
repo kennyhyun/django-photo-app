@@ -10,3 +10,6 @@ Django photo app for django-graphene
 - add `Query` and `Mutate` from `django-photo-app` to the `core/schema.py`
 - run migration
   - `./manage.py migrate`
+
+![image](https://user-images.githubusercontent.com/5399854/187075187-7dab510c-c527-41e6-939e-a66702b35fa4.png)
+
